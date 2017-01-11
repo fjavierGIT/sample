@@ -37,3 +37,5 @@ The courses comprising the Data Science Specialization are:
 * Avro
 * Harrier
 * Hornet
+
+Git is easy. Git is fun. Thanks Linus!
